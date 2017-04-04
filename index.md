@@ -24,23 +24,13 @@
 
 uVenture is a Meteor application to plan adventures for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
-![](images/landing.png)
-
 Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
  
-![](images/bowfolios-cas.png)
- 
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
-
-![](images/profile.png)
   
 After creating a profile, you will be listed on the public directory page:
 
-![](images/directory.png)
-
 uVenture also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all adventures with a given interest/adventure type:
-
-![](images/filter.png)
 
 # Installation
 
@@ -175,8 +165,6 @@ meteor npm run test-watch
 
 You can see the output by retrieving http://localhost:3100 in your browser. Here is an example run:
 
-![](images/m2-mocha-tests.png)
-
 ## CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
@@ -248,8 +236,6 @@ meteor npm run test-watch
 ```
 
 To see the results, visit http://localhost:3100. Here is what a successful run looks like:
- 
-![](images/m2-mocha-tests.png)
 
 ### JSDoc
 
@@ -269,23 +255,11 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="200px" src="images/landing.png"/>
-<img width="200px" src="images/profile.png"/>
-<img width="200px" src="images/directory.png"/>
-<img width="200px" src="images/filter.png"/>
-
 Milestone 1 was implemented as [BowFolio GitHub Milestone M1](https://github.com/bowfolios/bowfolios/milestone/1)::
-
-![](images/m1-milestone.png)
-
 
 Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
 
-![](images/m1-project.png)
-
 Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m1-branch-graph.png)
 
 ## Milestone 2: Data model development 
 
@@ -297,16 +271,9 @@ Also in this milestone, we implemented a set of mocha tests for the data model c
 
 Milestone 2 was implemented as [BowFolio GitHub Milestone M2](https://github.com/bowfolios/bowfolios/milestone/2)::
 
-![](images/m2-milestone.png)
-
-
 Milestone 2 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
 
-![](images/m2-project.png)
-
 Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m2-branch-graph.png)
 
 ## Milestone 3: Connect UI to data model
 
@@ -316,16 +283,9 @@ The goal of Milestone 3 was to connect the user interface to the underlying data
 
 Milestone 3 was implemented as [BowFolio GitHub Milestone M3](https://github.com/bowfolios/bowfolios/milestone/3)::
 
-![](images/m3-milestone.png)
-
-
 Milestone 3 consisted of four issues, and progress was managed via the [BowFolio GitHub Project M3](https://github.com/bowfolios/bowfolios/projects/3):
 
-![](images/m3-project.png)
-
 Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m3-branch-graph.png)
 
 ## Milestone 4: Authentication
 
@@ -337,16 +297,9 @@ Authentication also implies that users cannot access the profile or filter page 
 
 Milestone 4 was implemented as [BowFolio GitHub Milestone M4](https://github.com/bowfolios/bowfolios/milestone/4)::
 
-![](images/m4-milestone.png)
-
-
 Milestone 4 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M4](https://github.com/bowfolios/bowfolios/projects/4):
 
-![](images/m4-project.png)
-
 Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/m4-branch-graph.png)
 
 ## Milestone 5: Administration
 
