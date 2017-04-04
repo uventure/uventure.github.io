@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About uVenture](#about-uventure)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -18,24 +18,19 @@
     * [JSDoc](#JSDoc)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-  * [Milestone 4: Authentication](#milestone-4-authentication)
-  * [Milestone 5: Administration](#milestone-5-administration)
-* [Walkthrough videos](#walkthrough-videos)
 * [JSDocs](/jsdocs)
 
-# About BowFolios 
+# About uVenture
 
-BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
+uVenture is a Meteor application to plan adventures for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
 ![](images/landing.png)
 
-Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
+Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
  
 ![](images/bowfolios-cas.png)
  
-Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
+Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
 
 ![](images/profile.png)
   
@@ -43,7 +38,7 @@ After creating a profile, you will be listed on the public directory page:
 
 ![](images/directory.png)
 
-BowFolios also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
+uVenture also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all adventures with a given interest/adventure type:
 
 ![](images/filter.png)
 
