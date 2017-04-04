@@ -336,14 +336,3 @@ This milestone started on Feb 14, 2017 and is ongoing.
 This milestone will also include the implementation of Meteor methods and removal of the insecure package. 
 
 We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5).
-
-# Walkthrough videos
-
-BowFolios is intended as a model of how an ICS 314 project could be organized and executed. Here are some videos to walk through various aspects of the system and development process:
-
-* [BowFolios: User Interface](https://www.youtube.com/watch?v=aZvxRQfQdkE)
-* [BowFolios: Development Process](https://www.youtube.com/watch?v=8pTgFtbcjTc)
-* [BowFolios: Application Structure](https://www.youtube.com/watch?v=_5g5CzZ0Toc)
-* [BowFolios: Authentication and Authorization](https://www.youtube.com/watch?v=AaXShN8cYNY)
-* [BowFolios: Initialization](https://www.youtube.com/watch?v=P3Kigb1gtVo)
-* [BowFolios: Unit Testing](https://www.youtube.com/watch?v=FKVjNxQCBhs)
