@@ -1,3 +1,24 @@
+# Table of contents
+
+* [About uVenture](#about-uventure)
+* [Installation](#installation)
+* [Application design](#application-design)
+  * [Directory structure](#directory-structure)
+  * [Import conventions](#import-conventions)
+  * [Naming conventions](#naming-conventions)
+  * [Data model](#data-model)
+  * [CSS](#css)
+  * [Routing](#routing)
+  * [Authentication](#authentication)
+  * [Authorization](#authorization)
+  * [Configuration](#configuration)
+  * [Quality Assurance](#quality-assurance)
+    * [ESLint](#eslint)
+    * [Data model unit tests](#data-model-unit-tests)
+    * [JSDoc](#JSDoc)
+* [Development history](#development-history)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+* [JSDocs](/jsdocs)
 
 # About uVenture
 
