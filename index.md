@@ -65,6 +65,7 @@ M1: From April 4, 2017 to April 13, 2017
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
 Mockups for the following pages were implemented during M1:
+
 <img width="200px" src="../images/landing.png"/>
 <img width="200px" src="../images/profile.png"/>
 <img width="200px" src="../images/add.png"/>
@@ -94,8 +95,8 @@ AdventuresCollection will have the adventure name, address, type, and so on.
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
-<img class="ui centered image" src="../images/m2.png">
+<img class="ui centered image" src="../images/proj2.png">
 
 Milestone 2 consisted of six issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
 
-<img class="ui centered image" src="../images/proj2.png">
+<img class="ui centered image" src="../images/m2.png">
