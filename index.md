@@ -63,14 +63,21 @@ M1: From April 4, 2017 to April 13, 2017
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
-Mockups for the following four pages were implemented during M1:
+Mockups for the following pages were implemented during M1:
+<img width="200px" src="../images/landing.png"/>
+<img width="200px" src="../images/profile.png"/>
+<img width="200px" src="../images/add.png"/>
+<img width="200px" src="../images/edit.png"/>
+<img width="200px" src="../images/find.png"/>
 
-Milestone 1 was implemented as [uVenture GitHub Milestone M1](https://github.com/uventure/uventure/milestone/1?closed=1)::
+Milestone 1 was implemented as [uVenture GitHub Milestone M1](https://github.com/uventure/uventure/milestone/1?closed=1):
+<img class="ui centered image" src="../images/milestones.png">
 
 Milestone 1 consisted of six issues, and progress was managed via the [uVenture GitHub Project M1](https://github.com/uventure/uventure/projects/1):
+<img class="ui centered image" src="../images/m1.png">
 
 Each issue was implemented in its own branch, and merged into master when completed.
-
+<img class="ui centered image" src="../images/git1.png">
 
 ## Milestone 2: Data model development 
 M2: From April 13, 2017 to April 25, 2017
