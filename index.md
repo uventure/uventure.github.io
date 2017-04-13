@@ -5,6 +5,7 @@
 * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Data model development](#milestone-2-data-model-development)
 
 # About uVenture
 
@@ -91,6 +92,10 @@ AdventuresCollection will have the adventure name, address, type, and so on.
 
 <img class="ui centered image" src="../images/edit.png">
 
-Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2)::
+Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
+
+<img class="ui centered image" src="../images/m2.png">
 
 Milestone 2 consisted of six issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+
+<img class="ui centered image" src="../images/proj2.png">
