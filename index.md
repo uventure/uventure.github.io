@@ -16,7 +16,7 @@ Anyone with a UH account can login to uVenture by clicking on the login button. 
  
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to Facebook and Instagram.
 
-This application plans to make use of the Google Map API or Leaflet or whichever Map API we plan to use once we find out that it's stable. 
+This application uses an unofficial node module of the Google Maps API made to run Google Maps in a Meteor development environment. 
 <img class="ui centered image" src="../images/gmaps.png">
 
 ## Planning an adventure
@@ -59,6 +59,7 @@ The development process for uVenture conformed to [Issue Driven Project Manageme
 The following sections document the development history of uVenture.
 
 ## Milestone 1: Mockup development
+M1: From April 4, 2017 to April 13, 2017
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
@@ -68,13 +69,20 @@ Milestone 1 was implemented as [uVenture GitHub Milestone M1](https://github.com
 
 Milestone 1 consisted of six issues, and progress was managed via the [uVenture GitHub Project M1](https://github.com/uventure/uventure/projects/1):
 
-Each issue was implemented in its own branch, and merged into master when completed:
+Each issue was implemented in its own branch, and merged into master when completed.
+
 
 ## Milestone 2: Data model development 
+M2: From April 13, 2017 to April 25, 2017
 
-The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the uVenture application.  
+The goal of Milestone 2 is to implement Mongo Collections and the operations upon them that would support the uVenture application.  
 
-The data model is a set of Javascript classes. BaseCollection class provides common fields and operations. ProfileCollection and InterestCollection classes inherit from BaseCollection and provide the persistent data structures useful for uVenture. 
+The data model is a set of Javascript classes. BaseCollection class provides common fields and operations. ProfileCollection and AdventuresCollection classes inherit from BaseCollection and provide the persistent data structures useful for uVenture. 
+
+ProfileCollection will hold basic user data such as name, email and social media.
+AdventuresCollection will have the adventure name, address, type, and so on.
+
+<img class="ui centered image" src="../images/edit.png">
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2)::
 
