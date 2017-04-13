@@ -17,6 +17,8 @@ Anyone with a UH account can login to uVenture by clicking on the login button. 
  
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to Facebook and Instagram.
 
+<img class="ui centered image" src="../images/profile.png">
+
 This application uses an unofficial node module of the Google Maps API made to run Google Maps in a Meteor development environment. 
 <img class="ui centered image" src="../images/gmaps.png">
 
@@ -88,7 +90,10 @@ The goal of Milestone 2 is to implement Mongo Collections and the operations upo
 
 The data model is a set of Javascript classes. BaseCollection class provides common fields and operations. ProfileCollection and AdventuresCollection classes inherit from BaseCollection and provide the persistent data structures useful for uVenture. 
 
-ProfileCollection will hold basic user data such as name, email and social media.
+ProfileCollection will hold basic user data such as name, email and adventure preferences.
+
+<img class="ui centered image" src="../images/profile.png">
+
 AdventuresCollection will have the adventure name, address, type, and so on.
 
 <img class="ui centered image" src="../images/edit.png">
