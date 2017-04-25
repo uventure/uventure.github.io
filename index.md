@@ -13,7 +13,9 @@
 
 <img class="ui centered image" src="../images/landing.png">
 
-Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password.
+Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
+
+<img class="ui centered image" src="../images/caslogin.jpg">
  
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to Facebook and Instagram.
 
