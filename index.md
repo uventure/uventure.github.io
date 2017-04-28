@@ -100,11 +100,22 @@ AdventuresCollection was added to have the adventure name, address, type, and so
 
 <img class="ui centered image" src="../images/edit.png">
 
-An FAQ page was created and contains a user guide, developer guide, about us, and terms of service tab.
+An FAQ page was created and contains the following:
 
-<img width="200px" src="../images/user-guide.PNG">
-<img width="200px" src="../images/dev-guide.PNG">
+User Guide
+
+<img class="ui centered medium image"  src="../images/user-guide.PNG">
+
+Developer Guide
+
+<img class="ui centered image"  src="../images/dev-guide.PNG">
+
+About Us
+
 <img width="200px" src="../images/about-us.PNG">
+
+Terms of Service
+
 <img width="200px" src="../images/tos.PNG">
 
 A mockup page for the suggested adventures was created.
