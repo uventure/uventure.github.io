@@ -102,10 +102,14 @@ AdventuresCollection was added to have the adventure name, address, type, and so
 
 An FAQ page was created and contains a user guide, developer guide, about us, and terms of service tab.
 
-<img class="ui centered image" src="../images/user-guide.PNG">
-<img class="ui centered image" src="../images/dev-guide.PNG">
-<img class="ui centered image" src="../images/about-us.PNG">
-<img class="ui centered image" src="../images/tos.PNG">
+<img width="200px" src="../images/user-guide.PNG">
+<img width="200px" src="../images/dev-guide.PNG">
+<img width="200px" src="../images/about-us.PNG">
+<img width="200px" src="../images/tos.PNG">
+
+A mockup page for the suggested adventures was created.
+
+<img class="ui centered image" src="../images/m2-suggested-mockup.png">
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
