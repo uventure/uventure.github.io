@@ -108,19 +108,19 @@ User Guide
 
 Developer Guide
 
-<img class="ui centered image"  src="../images/dev-guide.PNG">
+<img class="ui centered medium image"  src="../images/dev-guide.PNG">
 
 About Us
 
-<img width="200px" src="../images/about-us.PNG">
+<img class="ui centered medium image" src="../images/about-us.PNG">
 
 Terms of Service
 
-<img width="200px" src="../images/tos.PNG">
+<img class="ui centered medium image" src="../images/tos.PNG">
 
 A mockup page for the suggested adventures was created.
 
-<img class="ui centered image" src="../images/m2-suggested-mockup.png">
+<img class="ui centered image" src="../images/m2-suggested-mockup.PNG">
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
