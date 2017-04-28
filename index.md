@@ -11,15 +11,15 @@
 
 [uVenture](http://uventure.meteorapp.com/) is a Meteor application to plan adventures for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
-<img class="ui centered image" src="../images/landing.png">
+<img class="ui centered image" src="../images/about.png">
 
 Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-<img class="ui centered image" src="../images/caslogin.jpg">
+<img class="ui centered image" src="../images/uh-cas-auth.png">
  
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to Facebook and Instagram.
 
-<img class="ui centered image" src="../images/profile.png">
+<img class="ui centered image" src="../images/profile-page.png">
 
 This application uses an unofficial node module of the Google Maps API made to run Google Maps in a Meteor development environment. 
 <img class="ui centered image" src="../images/gmaps.png">
@@ -86,24 +86,31 @@ Each issue was implemented in its own branch, and merged into master when comple
 <img class="ui centered image" src="../images/git1.png">
 
 ## Milestone 2: Data model development 
-M2: From April 13, 2017 to April 25, 2017
+M2: From April 13, 2017 to April 27, 2017
 
 The goal of Milestone 2 is to implement Mongo Collections and the operations upon them that would support the uVenture application.  
 
 The data model is a set of Javascript classes. BaseCollection class provides common fields and operations. ProfileCollection and AdventuresCollection classes inherit from BaseCollection and provide the persistent data structures useful for uVenture. 
 
-ProfileCollection will hold basic user data such as name, email and adventure preferences.
+ProfileCollection was added to hold basic user data such as name, email and adventure preferences. The form for the profile page has been updated.
 
-<img class="ui centered image" src="../images/profile.png">
+<img class="ui centered image" src="../images/profile-page.png">
 
-AdventuresCollection will have the adventure name, address, type, and so on.
+AdventuresCollection was added to have the adventure name, address, type, and so on.
 
 <img class="ui centered image" src="../images/edit.png">
 
+An FAQ page with a developer and user guide was created.
+
+<img class="ui centered image" src="../images/user-guide.png">
+
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
-<img class="ui centered image" src="../images/proj2.png">
+<img class="ui centered image" src="../images/m2-issues.png">
 
-Milestone 2 consisted of six issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+Milestone 2 consisted of seven issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
 
-<img class="ui centered image" src="../images/m2.png">
+<img class="ui centered image" src="../images/m2-project.png">
+
+Each issue was implemented in its own branch, and merged into master when completed.
+<img class="ui centered image" src="../images/m2-network.png">
