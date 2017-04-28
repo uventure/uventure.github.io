@@ -11,15 +11,15 @@
 
 [uVenture](http://uventure.meteorapp.com/) is a Meteor application to plan adventures for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
-<img class="ui centered image" src="../images/about.png">
+<img class="ui centered image" src="../images/about.PNG">
 
 Anyone with a UH account can login to uVenture by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-<img class="ui centered image" src="../images/uh-cas-auth.png">
+<img class="ui centered image" src="../images/uh-cas-auth.PNG">
  
 Once authenticated, you can create a profile that provides a bio statement and list of interests, plus links to Facebook and Instagram.
 
-<img class="ui centered image" src="../images/profile-page.png">
+<img class="ui centered image" src="../images/profile-page.PNG">
 
 This application uses an unofficial node module of the Google Maps API made to run Google Maps in a Meteor development environment. 
 <img class="ui centered image" src="../images/gmaps.png">
@@ -94,7 +94,7 @@ The data model is a set of Javascript classes. BaseCollection class provides com
 
 ProfileCollection was added to hold basic user data such as name, email and adventure preferences. The form for the profile page has been updated.
 
-<img class="ui centered image" src="../images/profile-page.png">
+<img class="ui centered image" src="../images/profile-page.PNG">
 
 AdventuresCollection was added to have the adventure name, address, type, and so on.
 
@@ -102,15 +102,15 @@ AdventuresCollection was added to have the adventure name, address, type, and so
 
 An FAQ page with a developer and user guide was created.
 
-<img class="ui centered image" src="../images/user-guide.png">
+<img class="ui centered image" src="../images/user-guide.PNG">
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
-<img class="ui centered image" src="../images/m2-issues.png">
+<img class="ui centered image" src="../images/m2-issues.PNG">
 
 Milestone 2 consisted of seven issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/uventure/uventure/projects/2):
 
-<img class="ui centered image" src="../images/m2-project.png">
+<img class="ui centered image" src="../images/m2-project.PNG">
 
 Each issue was implemented in its own branch, and merged into master when completed.
-<img class="ui centered image" src="../images/m2-network.png">
+<img class="ui centered image" src="../images/m2-network.PNG">
