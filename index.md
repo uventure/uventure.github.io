@@ -100,9 +100,12 @@ AdventuresCollection was added to have the adventure name, address, type, and so
 
 <img class="ui centered image" src="../images/edit.png">
 
-An FAQ page with a developer and user guide was created.
+An FAQ page was created and contains a user guide, developer guide, about us, and terms of service tab.
 
 <img class="ui centered image" src="../images/user-guide.PNG">
+<img class="ui centered image" src="../images/dev-guide.PNG">
+<img class="ui centered image" src="../images/about-us.PNG">
+<img class="ui centered image" src="../images/tos.PNG">
 
 Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com/uventure/uventure/milestone/2):
 
@@ -115,3 +118,18 @@ Milestone 2 consisted of seven issues, and progress was managed via the [uVentur
 Each issue was implemented in its own branch, and merged into master when completed.
 
 <img class="ui centered image" src="../images/m2-network.PNG">
+
+## Milestone 3: Test and polish 
+M3: From April 27, 2017 to May 2, 2017
+
+The goal of Milestone 3 is to fully implement user functionality and conduct a user test. 
+
+The ProfileCollection, AdventureCollection, and InterestCollection will respond to the actions of the user and store the relevant data.
+
+Milestone 3 was implemented as [uVenture GitHub Milestone M3](https://github.com/uventure/uventure/milestone/3):
+
+<img class="ui centered image" src="../images/m3-issues.PNG">
+
+Milestone 3 consists of eight issues, and progress was managed via the [uVenture GitHub Project M3](https://github.com/uventure/uventure/projects/3):
+
+<img class="ui centered image" src="../images/m3-todo.PNG">
