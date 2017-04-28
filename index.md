@@ -108,7 +108,7 @@ Milestone 2 was implemented as [uVenture GitHub Milestone M2](https://github.com
 
 <img class="ui centered image" src="../images/m2-issues.png">
 
-Milestone 2 consisted of seven issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+Milestone 2 consisted of seven issues, and progress was managed via the [uVenture GitHub Project M2](https://github.com/uventure/uventure/projects/2):
 
 <img class="ui centered image" src="../images/m2-project.png">
 
