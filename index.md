@@ -113,4 +113,5 @@ Milestone 2 consisted of seven issues, and progress was managed via the [uVentur
 <img class="ui centered image" src="../images/m2-project.PNG">
 
 Each issue was implemented in its own branch, and merged into master when completed.
+
 <img class="ui centered image" src="../images/m2-network.PNG">
