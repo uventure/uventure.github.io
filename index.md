@@ -102,19 +102,19 @@ AdventuresCollection was added to have the adventure name, address, type, and so
 
 An FAQ page was created and contains the following:
 
-User Guide
+**User Guide**
 
 <img class="ui centered medium image"  src="../images/user-guide.PNG">
 
-Developer Guide
+**Developer Guide**
 
 <img class="ui centered medium image"  src="../images/dev-guide.PNG">
 
-About Us
+**About Us**
 
 <img class="ui centered medium image" src="../images/about-us.PNG">
 
-Terms of Service
+**Terms of Service**
 
 <img class="ui centered medium image" src="../images/tos.PNG">
 
