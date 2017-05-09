@@ -155,4 +155,7 @@ Milestone 3 consists of eight issues, and progress was managed via the [uVenture
 ## Initial User Study
 Conducted from May 8, 2017 to May 9, 2017
 
+User feedback results:
+
+
 
