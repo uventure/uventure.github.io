@@ -6,6 +6,8 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
+  * [Milestone 3: Test and polish](#milestone-3-test-and-polish)
+
 
 # About uVenture
 
@@ -148,3 +150,8 @@ Milestone 3 was implemented as [uVenture GitHub Milestone M3](https://github.com
 Milestone 3 consists of eight issues, and progress was managed via the [uVenture GitHub Project M3](https://github.com/uventure/uventure/projects/3):
 
 <img class="ui centered image" src="../images/m3-todo.PNG">
+
+## Initial User Study
+Conducted from May 8, 2017 to May 9, 2017
+
+
