@@ -8,6 +8,8 @@
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   * [Milestone 3: Test and polish](#milestone-3-test-and-polish)
   * [Initial User Study](#initial-user-study)
+  * [Future Plans](#future-plans)
+
 
 
 # About uVenture
@@ -208,3 +210,17 @@ Some other responses included fixing a link that routed to the wrong adventure a
 
 The survey responses can be viewed at: <a href="https://goo.gl/IEkrZ6">https://goo.gl/IEkrZ6</a> 
 
+## Future Plans
+After a through review of the the survey results from the Initial User Study, we plan to further enhance the uVenture experience for UH Manoa students in the near future. 
+
+<img class="ui centered image" src="../images/add.png">
+The Add Adventure form currently has a horizontal structure which can be a hassle to move back and forth from the form to the Google Map when filling out an Adventure. One change that could be implemented is to move the Google Map to the right side of the form so that the users can both fill the form and navigate around the Google Map at the same time-- much like [Airbnb's](https://www.airbnb.com/) housing search dashboard. 
+
+<img class="ui centered image" src="../images/find.png">
+The Find Adventure page currently has no Google Maps view which can make it hard for some users to find where the exactly location of an adventure is before they can commit to it. Sure they can just contact the person or organization in charge of the adventure and ask them where it is, but it would be much easier if they can find where the adventure exactly is all in one page. 
+
+With these plans in mind, a future addition to uVenture would allow this application to be more easy to use and more intuitive to address user concerns. 
+
+We understand that nothing is perfect. The initial user study showed us that there is room to improve before making the ultimate adventure planning experience. 
+
+** Our adventure is helping you plan your ultimate adventure. **
