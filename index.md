@@ -223,4 +223,4 @@ With these plans in mind, a future addition to uVenture would allow this applica
 
 We understand that nothing is perfect. The initial user study showed us that there is room to improve before making the ultimate adventure planning experience. 
 
-** Our adventure is helping you plan your ultimate adventure. **
+*Our adventure is helping you plan your ultimate adventure.*
