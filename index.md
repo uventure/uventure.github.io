@@ -38,7 +38,7 @@ In addition, the user that made the adventure can edit it.
 ## Finding an adventure
 uVenture also provides a find adventure page. The option to join the adventure will only be available to those who can login to the system with their UH account.
 <img class="ui centered image" src="../images/find.png">
-The idea behind this page is to allow users to see what adventures are out there based on the map UI. This page also has a table of all the active adventures which users can filter by the type of adventure or organize the table by alphabetical order.
+The idea behind this page is to allow users to see what adventures are out there based on the map UI. This page also has a table of all the active adventures ordered by the newest adventure out there.
 
 # Installation
 
@@ -113,10 +113,6 @@ An FAQ page was created and contains the following:
 
 <img class="ui centered medium image"  src="../images/dev-guide.PNG">
 
-**About Us**
-
-<img class="ui centered medium image" src="../images/about-us.PNG">
-
 **Terms of Service**
 
 <img class="ui centered medium image" src="../images/tos.PNG">
@@ -143,6 +139,17 @@ M3: From April 27, 2017 to May 2, 2017
 The goal of Milestone 3 is to fully implement user functionality and conduct a user test. 
 
 The ProfileCollection, AdventureCollection, and InterestCollection will respond to the actions of the user and store the relevant data.
+
+Some notable additions in this milestone are the Suggested Adventures page and UH Calendar page.
+
+
+<img class="ui centered image" src="../images/suggestions.png">
+The Suggested Adventures page helps both users and non-users find some Yelp-approved adventures in Hawaii. 
+
+<img class="ui centered image" src="../images/calendar.png">
+The UH Calendar page helps UH Manoa students plan out their next adventure and ensures that their adventure doesn't fall within an important event like Finals Week or Commencement.
+
+We also implemented an AdventureSeed which will populate three adventures if there are no adventures in the database. 
 
 Milestone 3 was implemented as [uVenture GitHub Milestone M3](https://github.com/uventure/uventure/milestone/3):
 
