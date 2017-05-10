@@ -164,6 +164,16 @@ Conducted from May 8, 2017 to May 9, 2017
 
 User feedback results:
 
+<img width="200px" src="../images/surveyg1.jpg"/>
+<img width="200px" src="../images/surveyg2.jpg"/>
+<img width="200px" src="../images/surveyg3.jpg"/>
+<img width="200px" src="../images/surveyg4.jpg"/>
+<img width="200px" src="../images/surveyg5.jpg"/>
+<img width="200px" src="../images/surveyg6.jpg"/>
+<img width="200px" src="../images/surveyg7.jpg"/>
+<img width="200px" src="../images/surveyg8.jpg"/>
+<img width="200px" src="../images/surveyg9.jpg"/>
+
 <p>	Five undergraduate students were recruited for the study. Our group chose to survey students who were not in the ICS program so they are unfamiliar with the project and the its requirements. Questions from the survey were designed around each individual page of the site to better isolate the part of the site which needs improvement. This also helps keep suggestions clear as to which part needs to be improve upon. We wanted to give the testers a site that made it simple to add adventures and to be able to view the adventures they added as well. The site needed to be lively and captivating to inspire users to build experiences for the UH community. Having this goal in mind we asked questions such as “Was it easy to add an adventure”, “Was the site easy to navigate”, and “How visually appealing was the site?”. These questions and its responses would help give the feedback necessary to better improve upon our goals for the site. Following all the responses, it seemed that most users liked the design of the website but one also felt skeptical about the site being able to gather the UH community together and create adventures for everyone. Some other responses included fixing a link that routed to the wrong adventure and there was a suggestion of possibility adding more information for our adventures. All responses were reviewed and put into consideration for any feature development that may happen with the site.</p>
 
 Responses can be viewed at: <a href="https://goo.gl/eWscou">https://goo.gl/eWscou</a> 
