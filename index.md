@@ -188,5 +188,5 @@ These questions and its responses would help give the feedback necessary to bett
 
 Some other responses included fixing a link that routed to the wrong adventure and there was a suggestion of possibility adding more information for our adventures. All responses were reviewed and put into consideration for any feature development that may happen with the site.
 
-Responses can be viewed at: <a href="https://goo.gl/eWscou">https://goo.gl/eWscou</a> 
+Responses can be viewed at: <a href="https://goo.gl/IEkrZ6">https://goo.gl/IEkrZ6</a> 
 
