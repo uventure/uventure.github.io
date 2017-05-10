@@ -143,7 +143,7 @@ The ProfileCollection, AdventureCollection, and InterestCollection will respond 
 Some notable additions in this milestone are the Suggested Adventures page and UH Calendar page.
 
 
-<img class="ui centered image" src="../images/suggestions.png">
+<img class="ui centered image" src="../images/suggestion.png">
 The Suggested Adventures page helps both users and non-users find some Yelp-approved adventures in Hawaii. 
 
 <img class="ui centered image" src="../images/calendar.png">
