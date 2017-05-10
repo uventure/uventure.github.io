@@ -29,22 +29,38 @@ This application uses an unofficial node module of the Google Maps API made to r
 
 ## Planning an adventure
 
-The idea is that using a Map API will give users a nice and intuitive UI so that they can easily add an adventure just by placing a point on the map. Once that point is placed, a form will appear allowing the user to set-up their own adventure (hike, sightseeing, etc.). 
+The central idea around uVenture is that using the Google Maps API will give users a nice and intuitive UI so that they can easily add an adventure just by placing a point on the map. 
+
+Once that point is placed, a form will appear allowing the user to set-up their own adventure (hike, sightseeing, etc.). 
 <img class="ui centered image" src="../images/add.png">
 
-In addition, the user that made the adventure can edit it. 
+With the Google Maps API, users will also be able to scope out or have a general view of the area their adventure will be held at by using dragging the "Yellow Man" icon on a potential location for an adventure.
+
+In addition, the user that made the adventure can edit it by selecting it on the Find Adventures page. 
 <img class="ui centered image" src="../images/edit.png">
 
 ## Finding an adventure
 uVenture also provides a find adventure page. The option to join the adventure will only be available to those who can login to the system with their UH account.
 <img class="ui centered image" src="../images/find.png">
-The idea behind this page is to allow users to see what adventures are out there based on the map UI. This page also has a table of all the active adventures ordered by the newest adventure out there.
+
+The idea behind this page is to allow users to see what adventures are out there based on the map UI. This page also has a table of all the active adventures ordered by the newest adventure there is out there.
+
+## Miscellaneous
+
+Some other notable pages in uVenture is the Suggested Adventures page and UH Calendar page.
+
+<img class="ui centered image" src="../images/suggestion.png">
+The Suggested Adventures page helps both users and non-users find some Yelp-approved adventures in Hawaii. 
+
+<img class="ui centered image" src="../images/calendar.png">
+The UH Calendar page helps UH Manoa students plan out their next adventure and ensures that their adventure doesn't fall within an important event like Finals Week or Commencement.
+
+<img class="ui centered image" src="../images/find.png">
+An AdventureSeed also populates three adventures if there are no adventures in the database.
 
 # Deployment
 
 [uVenture](http://uventure.meteorapp.com/) is currently deployed using Galaxy, a platform-as-a-service (PaaS) for Meteor applications. You can find the latest deployment on: http://uventure.meteorapp.com/
-
-uVenture also uses mLabs, a cloud-hosted MongoDB service, for the current Galaxy deployment.
 
 # Installation
 
@@ -142,20 +158,22 @@ Each issue was implemented in its own branch, and merged into master when comple
 ## Milestone 3: Test and polish 
 M3: From April 27, 2017 to May 2, 2017
 
-The goal of Milestone 3 is to fully implement user functionality and conduct a user test. 
+The goal of Milestone 3 is to fully implement some user functionality and conduct a user test. 
 
-The ProfileCollection, AdventureCollection, and InterestCollection will respond to the actions of the user and store the relevant data.
+The ProfileCollection, AdventureCollection, and InterestCollection will respond to the actions of the user and store the relevant data. An AdventureSeed was added to populate some adventure ideas if there are not any available in the database.
 
 Some notable additions in this milestone are the Suggested Adventures page and UH Calendar page.
 
+**Suggested Adventures Page**
 
 <img class="ui centered image" src="../images/suggestion.png">
-The Suggested Adventures page helps both users and non-users find some Yelp-approved adventures in Hawaii. 
 
+**Calendar Page**
 <img class="ui centered image" src="../images/calendar.png">
-The UH Calendar page helps UH Manoa students plan out their next adventure and ensures that their adventure doesn't fall within an important event like Finals Week or Commencement.
 
-We also implemented an AdventureSeed which will populate three adventures if there are no adventures in the database. 
+In addition, a Calendar Page was also made to assist users in planning an adventure by displaying special holidays and dates pertaining to the UH system. 
+
+The Suggestion page was also made to help both users and non-users of uVenture to make an adventure based on some popular Hawaii tourist activities that are Yelp-reviewed. 
 
 Milestone 3 was implemented as [uVenture GitHub Milestone M3](https://github.com/uventure/uventure/milestone/3):
 
@@ -188,5 +206,5 @@ These questions and its responses would help give the feedback necessary to bett
 
 Some other responses included fixing a link that routed to the wrong adventure and there was a suggestion of possibility adding more information for our adventures. All responses were reviewed and put into consideration for any feature development that may happen with the site.
 
-Responses can be viewed at: <a href="https://goo.gl/IEkrZ6">https://goo.gl/IEkrZ6</a> 
+The survey responses can be viewed at: <a href="https://goo.gl/IEkrZ6">https://goo.gl/IEkrZ6</a> 
 
